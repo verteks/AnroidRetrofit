@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="top_movies_title">TOP MOVIES</string>
+    <string name="upcoming_movies_title">UPCOMING</string>
+</resources>
